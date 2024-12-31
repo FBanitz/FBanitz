@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My social thingies: https://linktr.ee/fbanitz
+
 <!--
 **FBanitz/Fbanitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

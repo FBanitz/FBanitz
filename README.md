@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+> [Français](./README.fr_FR.md)
 
 My social thingies: https://linktr.ee/fbanitz
 

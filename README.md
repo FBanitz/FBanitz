@@ -1,7 +1,11 @@
-# Hi there 👋
+# François BANITZ 
 > [Français](./README.fr_FR.md)
 
 My social thingies: https://linktr.ee/fbanitz
+
+Software engineer building useful and durable applications.
+
+[Flutter](https://flutter.dev/) | [Dart](https://dart.dev/)
 
 <!--
 **FBanitz/Fbanitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
